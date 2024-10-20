@@ -9,4 +9,5 @@ h2{
 p{
     color: red;
     background-color: black;
+    background-attachment: fixed;
 }
