@@ -7,6 +7,11 @@ h2{
     background-color: black;
 }
 p{
+<<<<<<< HEAD
     color: black;
     background-color: beige;
+=======
+    color: red;
+    background-color: black;
+>>>>>>> edit
 }
